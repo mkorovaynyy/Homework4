@@ -127,7 +127,6 @@ public class Main {
                     break;
             }
         }
-
     }
     static void task7() {
         System.out.println("Задача 7");
